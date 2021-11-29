@@ -1,1 +1,3 @@
-zamiana01.txt
+zamiana01.txt 
+Zamiana02.txt Zamiana02a
+Zmiana03.txt
