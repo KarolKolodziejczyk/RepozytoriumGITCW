@@ -4,4 +4,4 @@ Asystent pomocy
 interfejs graficzny 
 easierApp
 zmiana09
-zmiana0992
+zmiana099
