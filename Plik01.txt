@@ -4,3 +4,4 @@ Zmiana03.txt
 Zmiana04
 Zmiana05
 Zmiana07
+hotfix01
