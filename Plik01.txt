@@ -3,3 +3,4 @@ Zamiana02.txt Zamiana02a
 Zmiana03.txt
 Zmiana04
 Zmiana05
+Zmiana07
