@@ -1,2 +1,5 @@
 Zmiana07
 hotfix01
+Asystent pomocy
+interfejs graficzny 
+easierApp
